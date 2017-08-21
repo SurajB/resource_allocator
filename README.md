@@ -27,7 +27,9 @@ Examples:
 ### User inputs - 
 
 1. instances - a dict of dicts for each region and which has the instance name and the cost per hour. Each region may not have all server types.
+    
     example:
+    
     {
         "us-east": {
             "large": 0.12,
@@ -37,6 +39,7 @@ Examples:
             "8xlarge": 1.4,
             "10xlarge": 2.82
         },
+        
         "us-west": {
             "large": 0.14,
             "2xlarge": 0.413,
