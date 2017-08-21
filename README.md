@@ -39,6 +39,7 @@ Examples:
             "8xlarge": 1.4,
             "10xlarge": 2.82
         },
+        
         "us-west": {
             "large": 0.14,
             "2xlarge": 0.413,
