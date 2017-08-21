@@ -30,7 +30,7 @@ Examples:
     
     example:
     
-    ,{
+    {
         "us-east": {
             "large": 0.12,
             "xlarge": 0.23,
@@ -46,7 +46,7 @@ Examples:
             "8xlarge": 1.3,
             "10xlarge": 2.97
         },
-    },
+    }
 
 2. hours - the number of hours he wants to use the servers. (int)
 3. cpus - the minimum number of CPUs the user needs. (int)
