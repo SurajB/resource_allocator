@@ -18,5 +18,13 @@ instance_dict = {
         }
     }
 
-print(get_costs(instance_dict, 24, 135))
+#Scenario 1 - cpus and hours given
+#print(get_costs(instance_dict, 24, 135, 0))
+
+#Scenario 2 - price and hours given
+#print(get_costs(instance_dict, 10, 0, 38))
+
+#Scenario 3 - cpus, price and hours are given
+print(get_costs(instance_dict, 6, 180, 65))
+
 
