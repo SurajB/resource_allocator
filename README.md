@@ -13,7 +13,8 @@ The available servers types are:
 
 The cost per hour for each server would vary based on the data centre region.
 
-Users will be able to request for 
+Users will be able to request for
+
 ● minimum N CPUs for H hours
 ● maximum price they are willing to pay for H hours 
 ● or a combination of both.
