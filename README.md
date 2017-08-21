@@ -49,9 +49,9 @@ Examples:
         },
        }
 
-2. hours - the number of hours he wants to use the servers. (int)
-3. cpus - the minimum number of CPUs the user needs. (int)
-4. price - the maximum price user is able to pay. (float)
+2. hours - the number of hours he wants to use the servers.(int)
+3. cpus - the minimum number of CPUs the user needs.(int)
+4. price - the maximum price user is able to pay.(float)
 
 ### How to run
 
